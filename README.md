@@ -8,4 +8,4 @@ Document external code/content contributions made by Veracode Research since 201
 
 # non-code contributions (links)
 
-* [talks given since 2019](https://github.com/veracode-research/contributions/talks.md)
+* [talks given since 2019](https://github.com/veracode-research/contributions/blob/master/talks.md)
